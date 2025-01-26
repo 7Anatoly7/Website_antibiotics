@@ -1,0 +1,19 @@
+body {
+    background-color: #F5F5DC;
+}
+a{ 
+    background-color: #FF0000;
+    color: #FFFFFF;
+}
+h1{ 
+    text-align: center;
+}
+img{
+    width: 25%;
+}
+video{
+    width: 30%;
+}
+p{
+    background-color: #888;
+}
